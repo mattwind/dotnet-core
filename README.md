@@ -10,7 +10,6 @@ https://docs.microsoft.com/en-us/dotnet/articles/core/rid-catalog
 
 ## VScode
 https://code.visualstudio.com
-https://code.visualstudio.com/home/home-screenshot-win.png
 
 ### .Net Core Project Manager (Nuget)
 
