@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+  "debugType": "portable",
+  "emitEntryPoint": true
+},
+"dependencies": {},
+"frameworks": {
+  "Net461": {},
+  "netcoreapp1.1": {
+    "dependencies": {
+      "Microsoft.NETCore.App": {
+        "type": "platform",
+        "version": "1.1.0"
+      }
+    },
+    "imports": "dnxcore50"
+  }
+},
+  "runtimes": { 
+  "win7-x64": {}, 
+  "win10-x64": {}, 
+  "debian.8-x64": {},
+  "osx.10.10-x64": {}
+  }
+}
