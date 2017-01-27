@@ -2,9 +2,6 @@
 
 Full .NET Framework 4.6.1 support, this template has been tested on Windows 10, Debian 8 (Jessie) and OSX 10. Works great with VSCode IDE!
 
-## .NET Core
-https://www.microsoft.com/net/core
-
 ### Debian
 
 ```bash
@@ -13,6 +10,8 @@ curl -sSL -o dotnet.tar.gz https://go.microsoft.com/fwlink/?LinkID=835021
 sudo mkdir -p /opt/dotnet && sudo tar zxf dotnet.tar.gz -C /opt/dotnet
 sudo ln -s /opt/dotnet/dotnet /usr/local/bin
 ```
+### Other Operating Systems
+https://www.microsoft.com/net/core
 
 ## Frameworks
 https://docs.microsoft.com/en-us/dotnet/articles/core/packages#frameworks
