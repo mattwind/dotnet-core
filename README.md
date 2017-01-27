@@ -7,12 +7,21 @@ https://www.microsoft.com/net/core
 
 ### Debian
 ```sudo apt-get install curl libunwind8 gettext
+
 curl -sSL -o dotnet.tar.gz https://go.microsoft.com/fwlink/?LinkID=835021
+
 sudo mkdir -p /opt/dotnet && sudo tar zxf dotnet.tar.gz -C /opt/dotnet
+
 sudo ln -s /opt/dotnet/dotnet /usr/local/bin```
 
 ## Frameworks
 https://docs.microsoft.com/en-us/dotnet/articles/core/packages#frameworks
+
+Currently this project has the following frameworks loaded
+
+``` "Net461": {},
+
+  "netcoreapp1.1": {```
 
 ## Runtimes
 https://docs.microsoft.com/en-us/dotnet/articles/core/rid-catalog
