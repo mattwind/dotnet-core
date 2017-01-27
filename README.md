@@ -5,6 +5,12 @@ This template has Windows 10, OSX 10 and Debian Runtimes added, with Full .NET F
 ## .NET Core
 https://www.microsoft.com/net/core
 
+### Debian
+```sudo apt-get install curl libunwind8 gettext
+curl -sSL -o dotnet.tar.gz https://go.microsoft.com/fwlink/?LinkID=835021
+sudo mkdir -p /opt/dotnet && sudo tar zxf dotnet.tar.gz -C /opt/dotnet
+sudo ln -s /opt/dotnet/dotnet /usr/local/bin```
+
 ## Frameworks
 https://docs.microsoft.com/en-us/dotnet/articles/core/packages#frameworks
 
@@ -17,6 +23,7 @@ https://code.visualstudio.com
 ### .Net Core Project Manager (Nuget)
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter. 
+
 ```ext install net-core-project-manager```
 
 ## Mono 
