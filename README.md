@@ -1,6 +1,6 @@
 # .Net Core
 
-This template has Windows 10, OSX 10 and Debian Runtimes added, with Full .NET Framework 4.6.1 support. Works with VSCode IDE.
+Full .NET Framework 4.6.1 support, this template has been tested on Windows 10, Debian 8 (Jessie) ans OSX 10. Works great with VSCode IDE!
 
 ## .NET Core
 https://www.microsoft.com/net/core
@@ -24,6 +24,13 @@ Currently this project has the following frameworks loaded
 
 ## Runtimes
 https://docs.microsoft.com/en-us/dotnet/articles/core/rid-catalog
+
+These are the runtimes loaded in this project
+
+* win7-x64 
+* win10-x64
+* debian.8-x64
+* osx.10.10-x64
 
 ## VScode
 https://code.visualstudio.com
