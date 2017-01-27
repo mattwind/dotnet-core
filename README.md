@@ -13,7 +13,7 @@ sudo ln -s /opt/dotnet/dotnet /usr/local/bin
 ### Other Operating Systems
 https://www.microsoft.com/net/core
 
-## Frameworks
+# Frameworks
 https://docs.microsoft.com/en-us/dotnet/articles/core/packages#frameworks
 
 Currently this project has the following frameworks loaded
@@ -21,7 +21,7 @@ Currently this project has the following frameworks loaded
 * Net461
 * netcoreapp1.1
 
-## Runtimes
+# Runtimes
 https://docs.microsoft.com/en-us/dotnet/articles/core/rid-catalog
 
 These are the runtimes loaded in this project
@@ -31,7 +31,7 @@ These are the runtimes loaded in this project
 * debian.8-x64
 * osx.10.10-x64
 
-## VScode
+# VScode
 https://code.visualstudio.com
 
 ### .Net Core Project Manager (Nuget)
@@ -40,7 +40,7 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 
 `ext install net-core-project-manager`
 
-## Mono 
+# Mono 
 
 If you want to compile for Windows and just run your binary on Debian you can install Mono.
 
