@@ -1,6 +1,6 @@
 # .Net Core
 
-Full .NET Framework 4.6.1 support, this template has been tested on Windows 10, Debian 8 (Jessie) ans OSX 10. Works great with VSCode IDE!
+Full .NET Framework 4.6.1 support, this template has been tested on Windows 10, Debian 8 (Jessie) and OSX 10. Works great with VSCode IDE!
 
 ## .NET Core
 https://www.microsoft.com/net/core
