@@ -1,0 +1,3 @@
+[submodule "dotnet-core"]
+	path = dotnet-core
+	url = git@github.com:mattwind/dotnet-core.git
