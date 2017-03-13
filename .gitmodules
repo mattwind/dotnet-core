@@ -1,3 +1,6 @@
 [submodule "dotnet-core"]
 	path = dotnet-core
 	url = git@github.com:mattwind/dotnet-core.git
+[submodule "dotnet-mysql"]
+	path = dotnet-mysql
+	url = git@github.com:mattwind/dotnet-mysql.git
