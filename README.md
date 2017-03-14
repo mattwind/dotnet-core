@@ -40,10 +40,3 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 
 `ext install net-core-project-manager`
 
-# Mono 
-
-If you want to compile for Windows and just run your binary on Debian you can install Mono.
-
-`sudo apt-get install mono-complete`
-
-http://www.mono-project.com/archived/running_your_first_mono_application/
